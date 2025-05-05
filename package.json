@@ -1,0 +1,6 @@
+"homepage": "https://<althaf1504>.github.io/<Portfolio>"
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
